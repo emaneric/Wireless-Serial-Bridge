@@ -6120,7 +6120,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 115.57 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -6915,7 +6915,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:X2SON5_0.8x0.8mm_SOT1226"
+		(property "Footprint" "EN_Designs-KiCad-Lib:X2SON5_0.8x0.8mm_SOT1226"
 			(at 165.1 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -7663,7 +7663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 85.09 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -8242,7 +8242,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 153.67 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8556,7 +8556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 144.78 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -8895,7 +8895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 67.31 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -9486,7 +9486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 62.23 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9993,7 +9993,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 109.22 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11174,7 +11174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "EN_Designs-Footprints:TestPoint_Pad_D1.0mm"
 			(at 62.23 46.99 0)
 			(hide yes)
 			(show_name no)
